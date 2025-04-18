@@ -1,0 +1,7 @@
+/images/
+/.idea/
+/magic-card-ui/node_modules/
+/magic-card-ui/public/
+/venv/
+/resources/*
+/MTaGAI.iml
